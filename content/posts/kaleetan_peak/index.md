@@ -20,7 +20,7 @@ After the lake, we continued along the climbers trail. The trail is getting very
 
 The rest trip to base of the final scramble is uneventful. And scramble to the summit we feel more like class 3, though there is a class 2 path, but it is too lose for us. Overall the final scramble is pleasant and enjoyable.
 
-We took 5:10 hours from trailhead summit and logged 12.42 miles and 10:18 hours total.
+We took 5:10 hours from trailhead summit and logged 12.42 miles and 10:18 hours total. 
 
 GPS track: https://www.peakbagger.com/climber/ascent.aspx?aid=2667026
 
