@@ -22,6 +22,8 @@ The rest trip to base of the final scramble is uneventful. And scramble to the s
 
 We took 5:10 hours from trailhead summit and logged 12.42 miles and 10:18 hours total.
 
+GPS track: https://www.peakbagger.com/climber/ascent.aspx?aid=2667026
+
 {{< figure src="./imgs/kaleetan_peak.JPEG" title="Kaleetan Peak view from first bump. Shaded gully is the route." >}}
 
 {{< figure src="./imgs/first_view.JPEG" title="First view of Kaleetan Peak with fall color" >}}
