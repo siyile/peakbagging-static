@@ -7,10 +7,8 @@ tags: ["Snoqualmie Region", "Alpine Lake Wilderness", "Scramble"]
 author: "Siyi Le"
 # author: ["Me", "You"] # multiple authors
 cover:
-    image: "imgs/cover.JPEG" # image path/url
-    alt: "alt"
-    caption: "Kaleetan Peak" # display caption under cover
-    relative: true # when using page bundles set this to true
+    image: "imgs/cover.jpg" # image path/url
+    relative: false # when using page bundles set this to true
 ---
 We had a 9am late start from Frankline Falls Parking Lot. The lot was under construction last year which closes the trailhead. The lot is big and new with a lots of restrooms now!
 
@@ -24,8 +22,8 @@ We took 5:10 hours from trailhead summit and logged 12.42 miles and 10:18 hours 
 
 GPS track: https://www.peakbagger.com/climber/ascent.aspx?aid=2667026
 
-{{< figure src="./imgs/kaleetan_peak.JPEG" title="Kaleetan Peak view from first bump. Shaded gully is the route." >}}
+{{< figure src="imgs/kaleetan_peak.jpg" title="Kaleetan Peak view from first bump. Shaded gully is the route." >}}
 
-{{< figure src="./imgs/first_view.JPEG" title="First view of Kaleetan Peak with fall color" >}}
+{{< figure src="imgs/first_view.jpg" title="First view of Kaleetan Peak with fall color" >}}
 
-{{< figure src="./imgs/crux_approach.JPEG" title="Crux in approach, bypass is to the left." >}}
+{{< figure src="imgs/crux_approach.jpg" title="Crux in approach, bypass is to the left." >}}
