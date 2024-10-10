@@ -11,12 +11,45 @@ languages:
     languageDirection: ltr
     languageName: English
     weight: 1
+    menu:
+      main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+    params:
+      homeInfoParams:
+        Title: "Wanderlust Hippo and Hamster"
+        Content: >
+          Welcome to Siyi's 🦛 and Chutang's 🐹 outdoor adventures!
+      label:
+        text: "Home"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+    
+
   zh:
+    Title: "流浪的河马与仓鼠"
     languageCode: zh-CN
     languageDirection: ltr
     languageName: 中文
     weight: 2
-    
+    params:
+      homeInfoParams:
+        Title: "流浪的河马与仓鼠"
+        Content: >
+          欢迎来到思逸🦛与楚棠🐹的户外日志站!
+      label:
+        text: "主页"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+    menu:
+      main:
+        - identifier: tags
+          name: 标签
+          url: /tags/
+          weight: 20
+        
 markup:
   highlight:
     noClasses: false
@@ -72,11 +105,6 @@ params:
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
-  label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
@@ -92,11 +120,6 @@ params:
       - name: Tags
         url: tags
 
-  # home-info mode
-  homeInfoParams:
-    Title: "Wanderlust Hippo and Hamster"
-    Content: >
-      Welcome to Siyi's 🦛 and Chutang's 🐹 outdoor adventures!
 
   analytics:
     google:
@@ -122,12 +145,6 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 
