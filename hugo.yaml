@@ -1,5 +1,8 @@
 baseURL: "https://hippohamster.com/"
 title: Wanderlust Hippo and Hamster
+services:
+  googleAnalytics:
+    ID: G-7V4RNJS99Y
 paginate: 5
 theme: PaperMod
 
@@ -123,11 +126,13 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-7V4RNJS99Y"
+      # SiteVerificationTag: "G-7V4RNJS99Y"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
       SiteVerificationTag: "XYZabc"
+  
+
 
   cover:
     hidden: false # hide everywhere but not in structured data
