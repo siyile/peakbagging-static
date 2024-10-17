@@ -27,6 +27,7 @@ The hike out was uneventful. In total, it took us around 12 hours, including 2 h
 
 GPS Track: https://caltopo.com/m/F52FU2S
 
-![](imgs/p1.webp) ![](imgs/p2.webp)  ![](imgs/p3.webp)   
+![](imgs/p4.webp)  ![](imgs/p1.webp)  
+![](imgs/p2.webp)  ![](imgs/p3.webp)   
 ![](imgs/map.webp)
 

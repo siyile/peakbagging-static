@@ -14,8 +14,7 @@ languages:
     weight: 1
     params:
       sidebar:
-          subtitle: Welcome to Siyi's 🦛 and Chutang's 🐹 outdoor adventures!
-    
+          subtitle: Welcome to Siyi's 🦛 and Chutang's 🐹 outdoor adventures - Peakbagging, backpacking, hiking and more!
 
   zh:
     Title: "河马与仓鼠"
