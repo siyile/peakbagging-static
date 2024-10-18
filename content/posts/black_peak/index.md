@@ -3,6 +3,7 @@ title: "Black Peak"
 date: 2024-10-16T18:12:52-07:00
 image: imgs/cover.webp
 categories: ["scramble"]
+description: "The highest peak near rainy pass"
 tags: ["North Cascades"]
 ---
 Black Peak is the highest peak near Rainy Pass. Before heading there, we did some cragging at Exit 34. We were amazed by how many people were at Rainy Pass during larch season. The parking situation was intense—cars lined the road for about 2 miles. Fortunately, since we arrived around 7 p.m., we easily found a spot in the parking lot.

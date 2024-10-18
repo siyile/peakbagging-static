@@ -1,13 +1,10 @@
 ---
 title: "Kaleetan Peak"
 date: 2024-10-07T08:27:41-07:00
-weight: 1
-# aliases: ["/first"]
 categories: ["scramble"]
 tags: ["Snoqualmie Region", "Alpine Lake Wilderness"]
-author: "Siyi"
-# author: ["Me", "You"] # multiple authors
 image: "imgs/cover.webp" # image path/url
+description: "A prominent sharply pointed peak rising above Melakwa Lakes"
 ---
 We had a 9am late start from Frankline Falls Parking Lot. The lot was under construction last year which closes the trailhead. The lot is big and new with a lots of restrooms now!
 
