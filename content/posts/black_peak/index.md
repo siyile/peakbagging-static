@@ -12,7 +12,7 @@ We started hiking at 7:26 p.m. and reached Heather Pass about an hour later. Alo
 
 ![Our Camp Spot](imgs/camp.webp) ![Beautiful Lewis Lake](imgs/lewis.webp)
 
-The next day, we set off at 7 a.m. and finally got to see just how stunning the area was during larch season. The larches were at their peak, and they were everywhere! About an hour and a half later, we arrived at Wing Lake, once again amazed—this time by the sheer number of tents. Chutang estimated there were roughly 70–80 tents around the lake, dubbing it the "Black Peak Base Camp" (BBC), though most of the campers were just backpackers.
+The next day, we set off at 7 a.m. and finally got to see just how stunning the area was during larch season. The larches were at their peak, and they were everywhere! About an hour and a half later, we arrived at Wing Lake, once again amazed—this time by the sheer number of tents. Chutang estimated there were roughly 60–80 tents around the lake, dubbing it the "Black Peak Base Camp" (BBC), though most of the campers were just backpackers.
 
 ![So many tents!](imgs/tent.webp) ![The massive Black Peak](imgs/black.webp)
 

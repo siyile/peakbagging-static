@@ -6,15 +6,15 @@ tags: ["Snoqualmie Region", "Alpine Lake Wilderness"]
 image: "imgs/cover.webp" # image path/url
 description: "A prominent sharply pointed peak rising above Melakwa Lakes"
 ---
-We had a 9am late start from Frankline Falls Parking Lot. The lot was under construction last year which closes the trailhead. The lot is big and new with a lots of restrooms now!
+We had a late start at 9 AM from the Franklin Falls Parking Lot. The lot was under construction last year, which closed the trailhead, but now it’s fully reopened and much bigger, with plenty of restrooms!
 
-The approach to the lake is around 4.4 miles, it took us 2:30 hours. The approach is rocky after crossing I-90 overpass, but grade is easy.
+The hike to the Melakwa lake is about 4.4 miles and took us around 2.5 hours. The trail becomes rocky after crossing the I-90 overpass, but the grade is fairly easy.
 
-After the lake, we continued along the climbers trail. The trail is getting very steep, and sometimes easy to lose trail. But if you check the route on gaia, you should be able to quickly get back to trail. The crux would be the drop down to the high basin after gain the point 5699. The trail is muddy and slippery with lots of rocks. We found a better way when going back - when you need to drop down to the basin, look at climbers right, there is a new path to going down.
+After reaching the Melakwa Lake, we continued on the climbers’ trail. It gets steep and can be easy to lose the path at times, but checking the route on GPS helped us stay on track. The crux of the route is the drop into the high basin after gaining Point 5699. The trail here is muddy, slippery, and full of rocks. On the way back, we discovered a better option: when descending into the basin, look to the climbers' left for a newer, more manageable path.
 
-The rest trip to base of the final scramble is uneventful. And scramble to the summit we feel more like class 3, though there is a class 2 path, but it is too lose for us. Overall the final scramble is pleasant and enjoyable.
+The rest of the trip to the base of the final scramble was uneventful. The scramble to the summit felt more like Class 3 to us, even though there’s a Class 2 option—it was just too loose for our liking. Overall, the scramble was pleasant and enjoyable.
 
-We took 5:10 hours from trailhead summit and logged 12.42 miles and 10:18 hours total. 
+It took us 5 hours and 10 minutes to reach the summit, covering a total of 12.42 miles in 10 hours and 18 minutes.
 
 GPS track: https://www.peakbagger.com/climber/ascent.aspx?aid=2667026
 
