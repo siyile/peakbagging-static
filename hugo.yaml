@@ -16,14 +16,22 @@ languages:
       sidebar:
           subtitle: Welcome to Siyi's 🦛 and Chutang's 🐹 outdoor adventures - peakbagging, backpacking, hiking and more!
 
-  zh:
+  zh-cn:
     Title: "河马与仓鼠"
-    languageCode: zh-CN
-    languageName: 中文
+    languageCode: zh-cn
+    languageName: 简体中文
     weight: 2
     params:
       sidebar:
           subtitle: 欢迎来到思逸🦛与楚棠🐹的户外日志站!
+  zh-hk:
+    Title: "河馬與倉鼠"
+    languageCode: zh-hk
+    languageName: 繁體中文
+    weight: 2
+    params:
+      sidebar:
+          subtitle: 歡迎來到思逸🦛與楚棠🐹的戶外部落格站!
 
 pagination:
     pagerSize: 3
