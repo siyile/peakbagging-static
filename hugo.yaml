@@ -28,7 +28,7 @@ languages:
     Title: "河馬與倉鼠"
     languageCode: zh-hk
     languageName: 繁體中文
-    weight: 2
+    weight: 3
     params:
       sidebar:
           subtitle: 歡迎來到思逸🦛與楚棠🐹的戶外部落格站!
@@ -96,6 +96,12 @@ params:
             enabled: false
         content:
             enabled: false
+
+    defaultImage:
+        opengraph:
+            enabled: true
+            local: true
+            src: img/default.webp
 
 ### Custom menu
 ### See https://stack.jimmycai.com/config/menu
