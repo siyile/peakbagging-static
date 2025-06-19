@@ -20,4 +20,6 @@ We spent about 20 minutes on the summit before starting our descent. I set a han
 
 At the very bottom of the gully, we postholed through a thin snow layer into the boulder field below - not ideal, but fortunately, it wasn’t a long section. Soon, we reconnected with the trail and reached the cars by 5 p.m.
 
+GPS track: https://www.peakbagger.com/climber/ascent.aspx?aid=2862448
+
 ![Downclimbing the rock near the moat](imgs/moat.webp) ![The Boundary Peak](imgs/peak.webp) ![Downclimbing the final gully near the top](imgs/gully.webp)
