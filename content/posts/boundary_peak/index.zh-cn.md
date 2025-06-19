@@ -20,4 +20,6 @@ Boundary Peak在我的list上有一段时间了——实际上在2022年我还�
 
 到了沟底，我们踩穿了一层薄雪，经常会掉进下面的乱石，不太理想，不过幸好距离不长。很快我们重新接上了trail，下午5点顺利返回停车场。
 
+GPS track: https://www.peakbagger.com/climber/ascent.aspx?aid=2862448
+
 ![Downclimbing the rock near the moat](imgs/moat.webp) ![The Boundary Peak](imgs/peak.webp) ![Downclimbing the final gully near the top](imgs/gully.webp)
