@@ -4,7 +4,7 @@ date: 2025-06-18T23:38:19-07:00
 description: Highest peak in Methow Mountains
 image: imgs/cover.webp
 categories: ["scramble"]
-tags: ["North Cascades"]
+tags: ["North Cascades", "Smoot", "Bulger"]
 ---
 Stats:  
 TH to Gardner Meadows: 5 hours 16 minutes  

@@ -2,7 +2,7 @@
 title: "Kaleetan Peak"
 date: 2024-10-07T08:27:41-07:00
 categories: ["scramble"]
-tags: ["Snoqualmie Region", "Alpine Lake Wilderness"]
+tags: ["Snoqualmie Region", "Alpine Lake Wilderness", "Smoot"]
 image: "imgs/cover.webp" # image path/url
 description: "A prominent sharply pointed peak rising above Melakwa Lakes"
 ---
