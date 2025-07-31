@@ -30,9 +30,9 @@ We downclimbed from the summit back to the top of P4 and made a double-rope rapp
 Rockfall was unavoidable during the rappels — small to large rocks were dislodged despite careful climb. Thankfully we were the only party on the route, but if another team had been below us, it could have been very dangerous.
 
 # Trip Report
-We started hiking at 5:30 a.m. on Saturday from the Snow Lake trailhead. The approach followed the trail toward Snow Lake Divide. We were the first party on the mountain until we met another group near the talus field below Thumbtack. They were heading for the new sport route, while we were aiming for the NE Buttress—a relief for both parties, given the rockfall hazard on this mountain.
+We started hiking at 5:30 a.m. on Saturday from the Snow Lake trailhead. The approach followed the trail toward Snow Lake Divine. We were the first party on the mountain until we met another group near the talus field below Thumbtack. They were heading for the new sport route, while we were aiming for the NE Buttress—a relief for both parties, given the rockfall hazard on this mountain.
 
-At Thumbtack Rock, we turned sharply right and ascended a grassy gully. This seemed like a good approach: direct and not exposed. After gaining the divide, we traversed off-trail to reach the base of the route. The approach took us about three hours — not fast.
+At Thumbtack Rock, we turned sharply right and ascended a grassy gully. This seemed like a good approach: direct and not exposed. After gaining the Divine, we traversed off-trail to reach the base of the route. The approach took us about three hours — not fast.
 
 The climbing itself was relatively easy, though protection was sparse. The rock quality on the actual climbing sections was generally solid. On the first pitch, I placed just one piece before reaching the anchor midway. Knowing the rope was long enough to link P1 and P2, I extended placements with double runners and continued to the tree anchor at the top of P2. We regrouped on a large flat area to the climber’s left, unroped, and scrambled about 250 feet to the rusty bolt.
 
