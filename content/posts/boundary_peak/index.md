@@ -4,7 +4,7 @@ description: A less visited peak in Mount Rainier
 image: imgs/cover.webp
 date: 2025-06-18T21:26:03-07:00
 categories: ["scramble"]
-tags: ["Mount Rainier National Park"]
+tags: ["Mount Rainier National Park", "Rainier 100"]
 ---
 This scramble had been on my list for a while - I actually got turned back in 2022 when I was still a student. This time, I finally completed it as a mentored lead, with much better weather on our side. Funny enough, we discovered at the trailhead that one of my participants was actually Jerrick, the former leader of trip I was on. Small world!
 

@@ -1,14 +1,15 @@
 <style>
     /* Overwrite CSS variable */
     :root {
-        --article-font-family: "Roboto", var(--base-font-family);
+        --article-font-family: "helvetica-neue-55", var(--base-font-family);
+        --article-font-size: 22px; /* Add font size */
     }
 </style>
 
 <script>
     (function () {
         const customFont = document.createElement('link');
-        customFont.href = "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap";
+        customFont.href = "https://fonts.cdnfonts.com/css/helvetica-neue-557";
     
         customFont.type = "text/css";
         customFont.rel = "stylesheet";
