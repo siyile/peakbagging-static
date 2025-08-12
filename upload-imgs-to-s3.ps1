@@ -1,46 +1,50 @@
-# ========================
-# Upload imgs folders to S3
-# ========================
+param (
+    [Parameter(Position=0, Mandatory=$false)]
+    [string]$PostFolderName
+)
 
 $bucketName = "peak-bagging-website-static"
-$uploads = @() # Track uploads for summary
 
-# Find all imgs directories recursively under content/posts
-$imgsDirs = Get-ChildItem -Path "content/posts" -Directory -Recurse |
-    Where-Object { $_.Name -eq "imgs" }
+function Upload-FolderImgs {
+    param (
+        [string]$PostName
+    )
 
-foreach ($dir in $imgsDirs) {
-    $files = Get-ChildItem -Path $dir.FullName -File -Recurse
+    $localImgsPath = Join-Path -Path "content/posts" -ChildPath "$PostName\imgs"
+
+    if (-Not (Test-Path $localImgsPath)) {
+        Write-Host "Folder '$localImgsPath' does not exist." -ForegroundColor Yellow
+        return
+    }
+
+    $files = Get-ChildItem -Path $localImgsPath -File -Recurse
 
     if ($files.Count -eq 0) {
-        Write-Host "Skipping empty folder: $($dir.FullName)" -ForegroundColor Yellow
-        continue
+        Write-Host "No files found in '$localImgsPath' to upload." -ForegroundColor Yellow
+        return
     }
 
-    # Post folder name (e.g., black_peak)
-    $postName = $dir.Parent.Name
+    $s3Path = "s3://$bucketName/$PostName/"
 
-    # Build S3 path
-    $s3Path = "s3://$bucketName/$postName/"
-
-    Write-Host "Uploading $($dir.FullName) to $s3Path ..." -ForegroundColor Cyan
-
-    # Upload recursively
-    aws s3 cp $dir.FullName $s3Path --recursive | Out-Null
-
-    # Track in summary
-    $uploads += [PSCustomObject]@{
-        Post       = $postName
-        LocalPath  = $dir.FullName
-        S3Path     = $s3Path
-        FileCount  = $files.Count
-    }
+    Write-Host "Uploading $localImgsPath to $s3Path ..." -ForegroundColor Cyan
+    aws s3 cp $localImgsPath $s3Path --recursive
+    Write-Host "Uploaded $($files.Count) files for post '$PostName'." -ForegroundColor Green
 }
 
-# Summary output
-if ($uploads.Count -gt 0) {
-    Write-Host "`nUpload Summary:" -ForegroundColor Green
-    $uploads | Format-Table -AutoSize
+if ($PostFolderName) {
+    # Upload only the specified post folder
+    Upload-FolderImgs -PostName $PostFolderName
 } else {
-    Write-Host "`nNo imgs folders with files found to upload." -ForegroundColor Red
+    # Upload all imgs folders under content/posts
+    $imgsDirs = Get-ChildItem -Path "content/posts" -Directory -Recurse | Where-Object { $_.Name -eq "imgs" }
+
+    if ($imgsDirs.Count -eq 0) {
+        Write-Host "No imgs folders found under content/posts." -ForegroundColor Red
+        exit 0
+    }
+
+    foreach ($dir in $imgsDirs) {
+        $postName = $dir.Parent.Name
+        Upload-FolderImgs -PostName $postName
+    }
 }
