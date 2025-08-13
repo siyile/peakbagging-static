@@ -4,7 +4,7 @@ description: A least climbed little peak on Snoqualmie 20 list.
 date: 2025-08-09T15:23:06-07:00
 image: imgs/cover.webp
 categories: ["climb"]
-tags: ["Snoqualmie Region", "Alpine Lake Wilderness", "Smoot"]
+tags: ["Snoqualmie Region", "Alpine Lake Wilderness"]
 ---
 ## Climbing Route
 Follow your GPS and turn left after a U-shaped bend on the PCT near the east side of the mountain. Head left to pass a wall of trees close to the trail. Continue west and climb to the ridge. You may need to bushwhack a little, but there should be some boot paths. After passing the last patch of trees, the base of the climb is obvious where the ridge steepens.
