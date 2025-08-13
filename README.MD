@@ -3,7 +3,7 @@
 ## New Post
 
 ```
-hugo new content content/posts/my-first-post.md
+hugo new content content/posts/huckleberry_mountain/index.md
 ```
 
 ## Build and Server

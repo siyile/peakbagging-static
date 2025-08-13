@@ -29,3 +29,5 @@ The crux of the route was a 20-foot class 4 dihedral just below the summit. We c
 After enjoying the view, we started descending. We did a short rappel using an existing anchor just above the crux. The webbing looked new — thanks to whoever added it! There was another rappel station below the dihedral, but we didn’t use it since we weren’t sure where it went. It also wasn’t necessary because the rest of the descent was class 3 or easier.
 
 The whole round trip from camp took about six hours. We returned to camp around 7 PM. I took a quick dip in Ridge Lake — the water was surprisingly not very cold and felt very refreshing!
+
+GPS: https://www.peakbagger.com/climber/ascent.aspx?aid=2938165
