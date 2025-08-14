@@ -6,6 +6,8 @@ image: imgs/cover.webp
 categories: ["climb"]
 tags: ["Snoqualmie Region", "Alpine Lake Wilderness", "Smoot"]
 ---
+> 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/snoqualmie_pass_north_traverse/)
+
 Chutang and I planned a three-day traverse north of Snoqualmie Pass. We started at Snoqualmie Pass and followed the PCT Section J to the Mineral Creek trailhead. Along the way, we climbed three Snoqualmie Peaks, two of which are also Smoot peaks: Mount Thompson, Huckleberry Mountain, and Chikamin Peak.
 
 We left a car at the Mineral Creek trailhead and spent the night at a nearby campground on Thursday, 08/07. On Friday morning, we drove to the Snoqualmie Pass PCT north trailhead and started hiking at 7:41 AM, heading toward Ridge Lake. The hike along the PCT was pleasant, but Section J is very busy. Even on a Friday morning, there were many people on the trail.
