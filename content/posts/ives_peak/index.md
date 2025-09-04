@@ -6,7 +6,7 @@ image: imgs/cover.webp
 categories: ["scramble"]
 tags: ["South Cascades"]
 ---
-### Route Description
+## Route Description
 **Time**: 4 hours and 30 minutes round trip from Snowgrass Flat Camp
 **Distance**: 4 miles, 2000 ft elevation gain
 
@@ -18,7 +18,7 @@ From there, traverse about 40 ft to climber’s right on loose terrain, then hea
 
 ![access key ramp to southwest face for easy scramble](imgs/upper.webp)
 
-### Trip Report
+## Trip Report
 Day 3 of our Goat Rocks peak bagging trip. The previous days we tagged Gilbert Peak – West Route and Old Snowy Mountain: https://www.hippohamster.com/posts/gilbert_peak/.
 
 As usual, Chutang and I started at 6 am from Snowgrass Flat trailhead. To our surprise, the route up Ives Peak turned out to be very straightforward. The boulder-hopping section was solid and stable, and once we gained the north ridge, a clear path led us toward the ramp accessing the southwest face.
@@ -32,4 +32,3 @@ Many people traverse the ridge from Old Snowy to Ives, but looking at it, the ro
  ![The broken McCall Glacier](imgs/glacier.webp)
 
  GPS: https://www.peakbagger.com/climber/ascent.aspx?aid=2967872
- 
