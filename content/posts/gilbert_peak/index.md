@@ -12,12 +12,18 @@ The crux of the route has two loose rock traverses with an easy section between 
 From the PCT, hike into Cispus Basin. Then climb up toward the 6900 ft point on the ridge. Descend and contour around the hill toward the entrance gully. The gully is between two large cairns. 
 ### 1st Traverse
 The gully between the two cairns marks the start. You can see a big notch at the far end of the traverse. Climb the gully until it steepens. Look for a cairn on the right. From there, traverse across a band of white rock. Cairns mark all the way to the notch. Route finding is not too hard if you aim for the notch. I drew an approximate line to show the way.
-![1st traverse](imgs/route_1.webp) ![upper section of 1st traverse](imgs/route_4.webp)
+
+![1st traverse](imgs/route_1.webp) 
+
+![upper section of 1st traverse](imgs/route_4.webp)
 ### Easy Traverse
 From the notch, cross two small saddles. Ahead you’ll see a big white ledge and a basin. That’s where the second traverse starts.
 ### 2nd Traverse
 Drop down the white ledge and cross the bottom. Then climb back the elevation you just lost. Keep traversing at the same level, maybe a bit lower. After passing a wall with a good handhold on your left side, climb up to the 7400 ft saddle. The route here is easier and more obvious than the first traverse.
-![2st traverse](imgs/route_2.webp) ![last part of 2nd traverse](imgs/route_3.webp)
+
+![2st traverse](imgs/route_2.webp) 
+
+![last part of 2nd traverse](imgs/route_3.webp)
 ### Rest of route
 The final section is straightforward compared to the traverses. Hike up the broad slope and ridge toward the peak. When a bump blocks the ridge, look for a hole in the rock and cross to the right. At the base of the summit block, climb green-tinted class 3 rock, then finish with a short scramble to the top.
 ## Trip Report
@@ -41,6 +47,6 @@ We had hoped to tag Ives Peak on the same day, but the loose terrain wore us dow
 ![Goat Citadal](imgs/citadal.webp) ![Looking north toward Ives Peak and Old Snowy Mountain](imgs/north.webp)
 
 ### Day 3
-We did Ives Peak and hiked out on day 3. You can check my trip report for Ives Peak.
+We did Ives Peak and hiked out on day 3. You can check my trip report for Ives Peak. https://www.hippohamster.com/posts/ives_peak/
 
 GPS: https://www.peakbagger.com/climber/ascent.aspx?aid=2967874
