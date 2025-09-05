@@ -92,6 +92,13 @@ params:
 menu:
     main: []
 
+    social:
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/siyisauce/
+          params:
+              icon: brand-instagram
+
 related:
     includeNewer: true
     threshold: 60

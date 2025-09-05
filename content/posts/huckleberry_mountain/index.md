@@ -5,6 +5,11 @@ date: 2025-08-09T15:23:06-07:00
 image: imgs/cover.webp
 categories: ["climb"]
 tags: ["Snoqualmie Region", "Alpine Lake Wilderness"]
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 > 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/snoqualmie_pass_north_traverse/)
 ## Climbing Route

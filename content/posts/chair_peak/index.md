@@ -5,6 +5,11 @@ date: 2025-07-27T00:13:32-07:00
 tags: ["Snoqualmie Region", "Alpine Lake Wilderness", "Smoot"]
 categories: ["climb"]
 image: "imgs/cover.webp" # image path/url
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 # Climbing Route Description
 **P1 & P2 (Class 4 with a few low Class 5 moves, ~60m)**

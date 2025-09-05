@@ -5,6 +5,11 @@ date: 2025-08-31T20:39:58-07:00
 image: imgs/cover.webp
 categories: ["scramble"]
 tags: ["South Cascades", "Smoot"]
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 ## Route Description
 The crux of the route has two loose rock traverses with an easy section between them. The traverses are not very hard or exposed, but the rock is loose. Other than that, it is mostly off-trail hiking or easy scrambling.

@@ -5,6 +5,11 @@ date: 2025-08-10T11:00:30-07:00
 image: imgs/cover.webp
 categories: ["scramble"]
 tags: ["Snoqualmie Region", "Alpine Lake Wilderness", "Smoot"]
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 > 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/snoqualmie_pass_north_traverse/)
 

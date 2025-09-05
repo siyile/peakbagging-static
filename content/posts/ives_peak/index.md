@@ -5,6 +5,11 @@ date: 2025-09-01T21:12:06-07:00
 image: imgs/cover.webp
 categories: ["scramble"]
 tags: ["South Cascades"]
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 ## Route Description
 **Time**: 4 hours and 30 minutes round trip from Snowgrass Flat Camp

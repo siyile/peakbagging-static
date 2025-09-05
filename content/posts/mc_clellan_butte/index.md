@@ -5,6 +5,11 @@ date: 2025-08-17T20:09:40-07:00
 image: imgs/cover.webp
 categories: ["scramble"]
 tags: ["Snoqualmie", "Smoot"]
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 Chutang and I originally planned to climb Gunn Peak today. But when I woke up around 5 a.m., the forecast showed about 0.1 inches of rain every three hours across most models. We decided to switch plans and pick a closer, easier peak that also happens to be on the Smoot list—McClellan Butte.
 

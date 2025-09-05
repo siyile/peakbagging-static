@@ -5,6 +5,11 @@ date: 2025-08-08T07:32:33-07:00
 image: imgs/cover.webp
 categories: ["climb"]
 tags: ["Snoqualmie Region", "Alpine Lake Wilderness", "Smoot"]
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 > Day 1 Mount Tompson [trip report](https://www.hippohamster.com/posts/mount_thompson/)   
 > Day 2 Huckleberry Mountain [trip report](https://www.hippohamster.com/posts/huckleberry_mountain/)  

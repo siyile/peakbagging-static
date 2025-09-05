@@ -5,6 +5,11 @@ date: 2025-08-03T11:40:11-07:00
 image: imgs/cover.webp
 categories: ["scramble"]
 tags: ["Mountain Loop Highway", "Smoot"]
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 The forecast called for cloudy weather across the Cascades on Sunday, so we figured we’d be stuck in the clouds all day with no views. Because of that, we decided to go for a short scramble—something quick even if we ended up in whiteout conditions the whole time.
 

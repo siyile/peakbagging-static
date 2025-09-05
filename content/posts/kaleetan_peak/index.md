@@ -5,6 +5,11 @@ categories: ["scramble"]
 tags: ["Snoqualmie Region", "Alpine Lake Wilderness", "Smoot"]
 image: "imgs/cover.webp" # image path/url
 description: "A prominent sharply pointed peak rising above Melakwa Lakes"
+links:
+  - title: Instagram
+    description: Follow Siyi's Instagram to see more awesome pictures!
+    website: https://www.instagram.com/siyisauce/
+    image: /instagram_glyph.png
 ---
 We had a late start at 9 AM from the Franklin Falls Parking Lot. The lot was under construction last year, which closed the trailhead, but now it’s fully reopened and much bigger, with plenty of restrooms!
 
