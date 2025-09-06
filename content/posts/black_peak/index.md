@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/F52FU2S" width="100%" height="400px" frameBorder="0"></iframe>
+
 Black Peak is the highest peak near Rainy Pass. Before heading there, we did some cragging at Exit 34. We were amazed by how many people were at Rainy Pass during larch season. The parking situation was intense—cars lined the road for about 2 miles. Fortunately, since we arrived around 7 p.m., we easily found a spot in the parking lot.
 
 We started hiking at 7:26 p.m. and reached Heather Pass about an hour later. Along the way, we saw a few casual hikers making their way out in the dark, using only their phone flashlights. From Heather Pass, we descended and crossed a boulder field, finally reaching Lewis Lake around 9:41 p.m. We decided not to push further since Wing Lake was still about 1.5 hours away. We camped at a knob near the lake, which was a great spot. There were several other camping spots both at the knob and near the lake.

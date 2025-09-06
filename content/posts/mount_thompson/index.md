@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/EJ17CFF" width="100%" height="400px" frameBorder="0"></iframe>
+
 > 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/snoqualmie_pass_north_traverse/)
 
 Chutang and I planned a three-day traverse north of Snoqualmie Pass. We started at Snoqualmie Pass and followed the PCT Section J to the Mineral Creek trailhead. Along the way, we climbed three Snoqualmie Peaks, two of which are also Smoot peaks: Mount Thompson, Huckleberry Mountain, and Chikamin Peak.

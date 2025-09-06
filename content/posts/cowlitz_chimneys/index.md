@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/1R2FBG9" width="100%" height="400px" frameBorder="0"></iframe>
+
 ## Climbing Route
 From Fryingpan Creek/Summerland Trailhead, hike the Wonderland Trail to Panhandle Gap. From there, head cross-country toward Banshee Peak, then drop into the Main (South) Chimney Basin. Traverse right across the basin, aiming for a distinctive fence of trees. Ascend the scree slope to the right end of the trees, turn sharply left, and follow a boot path to the exposed class 3 traverse. This leads directly to a short class 4 chokestone chimney. The traverse and chimney are the cruxes. Team should consider carring a rope if someone isn't confident to do it unroped.
 

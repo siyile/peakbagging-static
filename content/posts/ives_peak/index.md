@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/0AMFD8C" width="100%" height="400px" frameBorder="0"></iframe>
+
 ## Route Description
 **Time**: 4 hours and 30 minutes round trip from Snowgrass Flat Camp
 **Distance**: 4 miles, 2000 ft elevation gain

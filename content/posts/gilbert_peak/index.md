@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/TEL07C6" width="100%" height="400px" frameBorder="0"></iframe>
+
 ## Route Description
 The crux of the route has two loose rock traverses with an easy section between them. The traverses are not very hard or exposed, but the rock is loose. Other than that, it is mostly off-trail hiking or easy scrambling.
 

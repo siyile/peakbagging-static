@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/RH3H8KR" width="100%" height="400px" frameBorder="0"></iframe>
+
 > 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/snoqualmie_pass_north_traverse/)
 
 This was Day 3, the final day of our Snoqualmie Pass North Traverse. Our plan was to summit Chikamin Peak and then return to the car at the Mineral Creek Trailhead. As usual, Chutang and I woke up at 6 a.m., made breakfast, and set out toward the peak. We had heard Chikamin was easier than Mount Thompson and Huckleberry Mountain, which we had climbed over the past two days, and that turned out to be true. The route was straightforward, and the short Class 3 chimney near the top was easy and not very technical.
