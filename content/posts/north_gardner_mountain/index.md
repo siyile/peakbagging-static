@@ -19,7 +19,18 @@ Gardner Meadows to North Gardner Summit: 3 hours 44 minutes
 North Gardner Summit to Gardner Meadows: 2 hours 52 minutes  
 Gardner Meadows to TH: 4 hours 33 minutes  
 
-GPS Track: https://www.peakbagger.com/climber/ascent.aspx?aid=2872108
+## Route Description
+From the Gardner Meadows campsites, aim for the obvious notch at 8,487 feet, which is visible from camp. Travel through the meadows toward the base of the scree basin. Switch into sturdy boots at the end of vegetation for better footing on the loose terrain. Climb steadily up the scree to reach the notch in about two and a half hours.
+
+![Scree basin](imgs/basin.webp) ![Top of the scree field](imgs/look_down_basin.webp)
+
+From the notch, follow the ridge toward the summit. Most of the terrain is Class 2, with occasional short Class 3 sections. The crux comes near the end of a descending ridge but is never very exposed. After gaining the main ridge, continue over mixed Class 2 rock and occasional snow patches until the summit comes into view.
+
+![Crux on the ridge](imgs/crux.webp) ![North Gardner Mountain from the notch](imgs/peak.webp)
+
+The summit has a register and wide views of the North Cascades. Descend by retracing your route back down the ridge, scree basin, and into Gardner Meadows.
+
+## Trip Report
 
 I first attempted North Gardner Mountain back in October 2023, but we had to turn back—unexpected snow on the ridge and no traction devices made it a no-go. This time, after seeing some successful summit reports in a Facebook group, Chutang and I decided to give it another shot and we made it.
 
@@ -35,12 +46,12 @@ We were up at 5 AM and on the move by 5:50, not exactly alpine-start material, b
 
 About an hour later, we reached the base of the scree basin. We switched to boots at the end of the vegetation, and that turned out to be a great decision. They gave us solid footing both up and down the loose scree and worked well on the final ridge too. After 2 hours and 37 minutes, we topped out at the notch. Honestly, the scree wasn’t too bad with boots on.
 
-![Deers](imgs/deer.webp) ![Scree basin](imgs/basin.webp) ![Top of the scree field](imgs/look_down_basin.webp)
-
 The ridge to the summit was mostly Class 2 with a few short Class 3 sections. The crux was near the end of the descending ridge, but nothing felt particularly exposed. Once on the main ridge, the climbing eased up. We crossed some Class 2 terrain, a few lingering snow patches, and finally stood on the summit. 3 hours and 44 minutes from camp—not bad. There’s a summit register up there with a pen, though the pen was struggling a bit at first.
 
-![North Gardner Mountain from the notch](imgs/peak.webp) ![Crux on the ridge](imgs/crux.webp) ![Gardner mountains, we didn't do it this time](imgs/gardner.webp)
+![Gardner mountains, we didn't do it this time](imgs/gardner.webp) ![Deers](imgs/deer.webp)
 
 We soaked it in for a while, then made our way back down, arriving at camp around 1 PM. Felt good knowing that this was finally done, and that we wouldn’t need to hike back to Gardner Meadows again.
 
 ![We never need to come back Gardner Meadows!](imgs/never.webp) ![Going down the scree](imgs/down_scree.webp) ![Gardner Meadows](imgs/meadow.webp)
+
+GPS Track: https://www.peakbagger.com/climber/ascent.aspx?aid=2872108
