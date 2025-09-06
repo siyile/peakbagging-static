@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/P1E15GA" width="100%" height="400px" frameBorder="0"></iframe>
+
 Chutang and I originally planned to climb Gunn Peak today. But when I woke up around 5 a.m., the forecast showed about 0.1 inches of rain every three hours across most models. We decided to switch plans and pick a closer, easier peak that also happens to be on the Smoot list—McClellan Butte.
 
 We arrived at the upper trailhead just around noon. The road to the trailhead is a bit rough, so I’d recommend a higher-clearance vehicle. The parking is very limited on upper trail head, I would say around 4 cars. Starting from the lower trailhead only adds about 600 feet of gain, so it’s not a big deal if you park there.

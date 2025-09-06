@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/7EECNGM" width="100%" height="400px" frameBorder="0"></iframe>
+
 This scramble had been on my list for a while - I actually got turned back in 2022 when I was still a student. This time, I finally completed it as a mentored lead, with much better weather on our side. Funny enough, we discovered at the trailhead that one of my participants was actually Jerrick, the former leader of trip I was on. Small world!
 
 I originally expected this to be a moderate snow scramble, but it turned out to be more involved. Conditions included two short Class 4 sections where I set up handlines to descend, and a long traverse alternating between snow and rock to avoid crevasses along the ridge. It made sense why Jerrick finally summited on his fourth attempt out of the park boundary. Now, he’s hoping to return via the normal route starting within the park.

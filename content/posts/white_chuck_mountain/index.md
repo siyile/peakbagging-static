@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/K54LCHQ" width="100%" height="400px" frameBorder="0"></iframe>
+
 The forecast called for cloudy weather across the Cascades on Sunday, so we figured we’d be stuck in the clouds all day with no views. Because of that, we decided to go for a short scramble—something quick even if we ended up in whiteout conditions the whole time.
 
 We’d heard the drive to the trailhead was rough, and that turned out to be very true. The road is about 12 miles of rough gravel with big potholes you can’t really dodge. We opted for the “better” approach by driving south from Darrington on Mountain Loop Highway for 10 miles, which is also what Google Maps recommends. Even with that route, it still took us about an hour and ten minutes to reach the base of the climb.

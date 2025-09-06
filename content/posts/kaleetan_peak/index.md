@@ -11,6 +11,8 @@ links:
     website: https://www.instagram.com/siyisauce/
     image: /instagram_glyph.png
 ---
+<iframe src="https://caltopo.com/m/651UA10" width="100%" height="400px" frameBorder="0"></iframe>
+
 We had a late start at 9 AM from the Franklin Falls Parking Lot. The lot was under construction last year, which closed the trailhead, but now it’s fully reopened and much bigger, with plenty of restrooms!
 
 The hike to the Melakwa lake is about 4.4 miles and took us around 2.5 hours. The trail becomes rocky after crossing the I-90 overpass, but the grade is fairly easy.
