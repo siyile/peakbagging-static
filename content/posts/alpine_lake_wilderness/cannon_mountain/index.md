@@ -12,6 +12,7 @@ links:
     image: /instagram_glyph.png
 ---
 ## Map
+Clip "Open in Caltopo" to see detailed map annotation.
 <iframe src="https://caltopo.com/m/NTM7GQR" width="100%" height="400px" frameBorder="0"></iframe>
 
 ## Route Description
