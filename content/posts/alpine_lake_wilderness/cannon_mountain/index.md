@@ -30,7 +30,7 @@ For the descent, you can either return the same way or continue through Prusik P
 ## Trip Report
 We camped at Bridge Creek Campground the night before and left at 4:45 am, driving to the Stuart Lake Trailhead. It was my first time there, and even at that early hour on a Saturday, the lot was nearly full. Fortunately, we snagged one of the last few spots.
 
-Starting at 5:30 am, we hiked the busy trail for 1.3 miles before heading off-trail. The first 400 ft through the forest was straightforward, with ankle-high brush and a faint boot path. Soon we reached an 800 ft boulder filed. On the ascent it was manageable, but on the way down it felt endless and exhausting for both Chutang and me.
+Starting at 5:30 am, we hiked the busy trail for 1.3 miles before heading off-trail. The first 400 ft through the forest was straightforward, with ankle-high brush and a faint boot path. Navigating in the dark through forest wasn't an issue for us. Soon we reached an 800 ft boulder filed. On the ascent it was manageable, but on the way down it felt endless and exhausting for both Chutang and me.
 
 At 5,200 feet we reached the crux of the route. The options were to scramble up a short but loose cliff band on the left or to push through a muddy alder gully with water running beneath it on the right. We chose the cliff band on the way up and the gully on the way down. Neither felt much better than the other.
 

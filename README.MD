@@ -20,4 +20,5 @@ Image need to be upload to S3.
 **Upload only a single post folder**
 ```
 .\upload-imgs-to-s3.ps1 black_peak
+.\upload-imgs-to-s3.ps1 alpine_lake_wilderness/cannon_mountain
 ```
