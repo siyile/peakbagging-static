@@ -14,7 +14,7 @@ languages:
     weight: 1
     params:
       sidebar:
-          subtitle: Welcome to Siyi's 🦛 and Chutang's 🐹 outdoor adventures - climbing, scrambling, peakbagging and more!
+          subtitle: Try to be best PNW peakbagging beta website! 
 
 pagination:
     pagerSize: 3
