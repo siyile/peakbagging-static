@@ -13,7 +13,7 @@ links:
 ---
 <iframe src="https://caltopo.com/m/EJ17CFF" width="100%" height="400px" frameBorder="0"></iframe>
 
-> 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/snoqualmie_pass_north_traverse/)
+> 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/alpine_lake_wilderness/snoqualmie_pass_north_traverse/)
 
 ## Route Description
 From Snoqualmie Pass, follow the Pacific Crest Trail north for about 7.5 miles to Ridge Lake, where most parties camp. From camp, continue a short distance north on the PCT to the base of Bumblebee Pass. A well-defined steep boot path leads up to the pass.

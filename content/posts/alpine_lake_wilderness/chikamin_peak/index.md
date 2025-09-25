@@ -13,7 +13,7 @@ links:
 ---
 <iframe src="https://caltopo.com/m/RH3H8KR" width="100%" height="400px" frameBorder="0"></iframe>
 
-> 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/snoqualmie_pass_north_traverse/)
+> 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/alpine_lake_wilderness/snoqualmie_pass_north_traverse/)
 
 ## Route Description
 From camp at Glacier Lake, begin by contouring around the lake toward the boulder field. Aim for the tall, thin rock visible from camp, then climb up through the boulders. Continue until you can turn left toward the largest pond above the creek. Staying on the right side of the creek makes the approach easier, as a faint but defined boot path runs along that side. Once you reach the rock above the pond, either drop directly to it or contour slightly to the right.

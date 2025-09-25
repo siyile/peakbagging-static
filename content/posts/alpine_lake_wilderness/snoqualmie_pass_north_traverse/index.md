@@ -13,9 +13,9 @@ links:
 ---
 <iframe src="https://caltopo.com/m/UGMR66R" width="100%" height="400px" frameBorder="0"></iframe>
 
-> Day 1 Mount Tompson [trip report](https://www.hippohamster.com/posts/mount_thompson/)   
-> Day 2 Huckleberry Mountain [trip report](https://www.hippohamster.com/posts/huckleberry_mountain/)  
-> Day 3 Chikamin Peak [trip report](https://www.hippohamster.com/posts/chikamin_peak/)  
+> Day 1 Mount Tompson [trip report](https://www.hippohamster.com/posts/alpine_lake_wilderness/mount_thompson/)   
+> Day 2 Huckleberry Mountain [trip report](https://www.hippohamster.com/posts/alpine_lake_wilderness/huckleberry_mountain/)  
+> Day 3 Chikamin Peak [trip report](https://www.hippohamster.com/posts/alpine_lake_wilderness/chikamin_peak/)  
 
 ## Day 1 - Snoqualmie Pass to Ridge Lake, Mount Thompson
 Chutang and I planned a three-day traverse north of Snoqualmie Pass. We started at Snoqualmie Pass and followed the PCT Section J to the Mineral Creek trailhead. Along the way, we climbed three Snoqualmie Peaks, two of which are also Smoot peaks: Mount Thompson, Huckleberry Mountain, and Chikamin Peak.
@@ -43,7 +43,7 @@ After enjoying the view, we started descending. We did a short rappel using an e
 The whole round trip from camp took about six hours. We returned to camp around 7 PM. I took a quick dip in Ridge Lake — the water was surprisingly not very cold and felt very refreshing!
 
 ## Day 2 Ridge Lake to Glacier Lake, Huckleberry Mountain
-> Please see this [trip report](https://www.hippohamster.com/posts/huckleberry_mountain/) for Huckleberry Mountain climbing route.
+> Please see this [trip report](https://www.hippohamster.com/posts/alpine_lake_wilderness/huckleberry_mountain/) for Huckleberry Mountain climbing route.
 
 This was day 2 of our Snoqualmie Pass North Traverse. Overnight, all our gear was soaked with heavy condensation. This slowed us down packing in the morning, and we don’t know why it happened, since the forecast called for three sunny days. 
 

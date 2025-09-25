@@ -13,7 +13,7 @@ links:
 ---
 <iframe src="https://caltopo.com/m/02MD1M2" width="100%" height="400px" frameBorder="0"></iframe>
 
-> 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/snoqualmie_pass_north_traverse/)
+> 3 days Snoqualmie Pass North Traverse [trip report](https://www.hippohamster.com/posts/alpine_lake_wilderness/snoqualmie_pass_north_traverse/)
 ## Climbing Route
 Follow your GPS and turn left after a U-shaped bend on the PCT near the east side of the mountain. Head left to pass a wall of trees close to the trail. Continue west and climb to the ridge. You may need to bushwhack a little, but there should be some boot paths. After passing the last patch of trees, the base of the climb is obvious where the ridge steepens.
 ### Pitch 1 - Class 4

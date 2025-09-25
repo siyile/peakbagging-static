@@ -45,7 +45,7 @@ We started at 6 am for Gilbert Peak. The approach from Snowgrass Flat is long. W
 
 ![Cispus Basin](imgs/cispus.webp)
 
-We filled up at the Cispus River (more of a stream here) and headed toward the entrance gully. We had no trouble finding it. But at first we went the wrong way half way ascending the gulley, because we aimed for the wrong notch. As long as you aim for the right notch, the route finding isn’t too bad. There are cairns along the way, though not continuous. After the first traverse, the easy traverse and second traverse were much simpler. At that point, route finding was straightforward as long as you had a general sense of your target direction.
+We filled up at the Cispus River (more of a stream here) and headed toward the entrance gully. We had no trouble finding it. But at first we went the wrong way half way ascending the gully, because we aimed for the wrong notch. As long as you aim for the right notch, the route finding isn’t too bad. There are cairns along the way, though not continuous. After the first traverse, the easy traverse and second traverse were much simpler. At that point, route finding was straightforward as long as you had a general sense of your target direction.
 
 At the end of the second traverse, we climbed up to a saddle with a clear view of the rest of the route. From there, the ridge was gentle, and after a short scramble we reached the summit of Gilbert Peak. There was a nice new summit register, placed earlier this year (2025).
 
@@ -54,6 +54,6 @@ We had hoped to tag Ives Peak on the same day, but the loose terrain wore us dow
 ![Goat Citadal](imgs/citadal.webp) ![Looking north toward Ives Peak and Old Snowy Mountain](imgs/north.webp)
 
 ### Day 3
-We did Ives Peak and hiked out on day 3. You can check my trip report for Ives Peak. https://www.hippohamster.com/posts/ives_peak/
+We did Ives Peak and hiked out on day 3. You can check my trip report for Ives Peak. https://www.hippohamster.com/posts/south_cascades/ives_peak/
 
 GPS: https://www.peakbagger.com/climber/ascent.aspx?aid=2967874
