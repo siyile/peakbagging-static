@@ -15,7 +15,7 @@ links:
 <iframe src="https://caltopo.com/m/NHG8J97" width="100%" height="400px" frameBorder="0"></iframe>
 
 ## Route Description
-Most of the ascent follows a well defined and graded trail, so it is difficult to get lost until you reach the short glacier or scree traverse. Up to that point, you can simply follow the GPX track.
+Most of the ascent follows a well defined and graded trail, so it is difficult to get lost until you reach snow or scree traverse below false summit ridge. Up to that point, you can simply follow the GPX track.
 
 When gaining the last false summit, it is tempting to stay high on the ridge, but there is a large gap between the first and second gendarmes that makes crossing impossible. Both AllTrails and Gaia incorrectly show the route staying on the ridge. Instead, traverse snow or scree to find the class 3 gully that bypasses a few gendarmes and leads you back to the ridge. If you encounter anything harder than class 3, step back and look for another gully. We used the gully at (48.97392, -121.70649). On 09/29/2025 we stayed entirely on rock, but earlier in the season you may need an ice axe.
 
@@ -32,7 +32,7 @@ The trail to Yellow Aster Butte Lakes is in excellent condition, as is most of t
 
 We returned to camp around 6 pm. The round trip to Yellow Aster Butte took about 1 hour and 30 minutes.
 
-![fall color](imgs/fall.webp) ![Mount Shuksan](imgs/shuksan.webp) ![yellow aster butte lakes](imgs/tarn.webp)
+![fall color](imgs/fall.webp) ![yellow aster butte lakes](imgs/tarn.webp)
 
 ### Day 2
 With daylight hours shrinking, we planned for a relaxed start at 7 am to avoid hiking in the dark. Sunrise from camp over Mount Shuksan was stunning.
@@ -43,11 +43,11 @@ The approach is straightforward and nearly impossible to lose. We followed the t
 
 ![Chutang on route](imgs/ridge.webp) ![Tomyhoi glacier](imgs/glacier.webp)
 
-Before the false summit, both Gaia and AllTrails show the route incorrectly by keeping it on the ridge. In reality, you need to make a traverse below the ridge. We noticed rock barriers on the main trail that indicate where you should drop down and start the traverse. At this time of year, no ice axe or traction was necessary because the route went entirely on rock and scree. The key is finding the correct gully to regain the ridge. I first climbed into a slab with pebbles on it that required a few class 5 moves, but Chutang’s gully turned out to be much easier. If the climbing feels harder than class 3, you are probably in the wrong place. I believe they are a few gully can take you to the ridge.
+Before the false summit, both Gaia and AllTrails show the route incorrectly by keeping it on the ridge. In reality, you need to make a traverse below the ridge. We noticed some small rocks blocking on the main trail that indicate where you should drop down and start the traverse. At this time of year, no ice axe or traction was necessary because the route went entirely on rock and scree. The key is finding the correct gully to regain the ridge. I first climbed into a slab with pebbles on it that required a few class 5 moves, but the gully that Chutang is in turned out to be much easier. If the climbing feels harder than class 3, you are probably in the wrong place. I believe there are a few gullies can take you to the ridge.
 
 ![start scramble the summit block, another party behind us](imgs/scramble.webp) ![downclimbing](imgs/downclimb.webp) 
 
-From the false summit, you can see almost the entire line to the true summit. It looks complex at first, but once on route it is obvious. Everything else looks too hard and exposed, so staying on track is straightforward. After passing a piton, we made a short exposed traverse that felt manageable, followed by an easy scramble to the summit. We searched for the summit register but could not find it. 
+From the false summit, you can see almost the entire line to the true summit. It looks difficult at first, but once on route it is obvious. After passing a piton, we made a short exposed traverse that felt manageable, followed by an easy scramble to the summit. We searched for the summit register but could not find it. 
 
 ![the short exposed traverse](imgs/traverse.webp) ![Chutang traverse back](imgs/traverse2.webp)
 
