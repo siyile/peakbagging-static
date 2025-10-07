@@ -2,7 +2,14 @@
     /* Overwrite CSS variable */
     :root {
         --article-font-family: "helvetica-neue-55", var(--base-font-family);
-        --article-font-size: 18px; /* Add font size */
+        --article-font-size: 20px; /* Add font size */
+    }
+
+    /* Mobile font size */
+    @media (max-width: 768px) {
+        :root {
+            --article-font-size: 18px;
+        }
     }
 </style>
 
